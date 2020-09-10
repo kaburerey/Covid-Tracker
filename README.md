@@ -1,2 +1,2 @@
-# Covid-Tracker
-A covid-19 tracker app for my senior project.
+# COVID-19 Real-time Tracker
+A website created to track COVID-19 cases
